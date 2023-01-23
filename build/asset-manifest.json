@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ee426f1.css",
+    "main.js": "/static/js/main.0306491f.js",
+    "static/js/787.dcc73137.chunk.js": "/static/js/787.dcc73137.chunk.js",
+    "static/media/carousel-1.jpg": "/static/media/carousel-1.15b16e868d8def96c066.jpg",
+    "static/media/carousel-2.jpg": "/static/media/carousel-2.d92652d5fcc62c841fc7.jpg",
+    "static/media/offer-2.png": "/static/media/offer-2.45d54dfb05426a2ce9fd.png",
+    "static/media/offer-1.png": "/static/media/offer-1.e8e707c467f8dadea8a1.png",
+    "static/media/cat-5.jpg": "/static/media/cat-5.d716ae422cc73b5a3d7d.jpg",
+    "static/media/cat-6.jpg": "/static/media/cat-6.7d2b0e6e62338903bb8d.jpg",
+    "static/media/cat-4.jpg": "/static/media/cat-4.5aaaa283a11e721e9bf3.jpg",
+    "static/media/product-2.jpg": "/static/media/product-2.790732671b25dd5b0855.jpg",
+    "static/media/product-5.jpg": "/static/media/product-5.e8c246925164facaa4c8.jpg",
+    "static/media/cat-2.jpg": "/static/media/cat-2.b72be7cd268433c1e9c2.jpg",
+    "static/media/product-8.jpg": "/static/media/product-8.613fa1a4d177e7b4438d.jpg",
+    "static/media/product-4.jpg": "/static/media/product-4.a8d308b4b7f033e5899a.jpg",
+    "static/media/product-1.jpg": "/static/media/product-1.c6618387e7c38fa376bb.jpg",
+    "static/media/product-3.jpg": "/static/media/product-3.24c10bff067c09d8611e.jpg",
+    "static/media/cat-1.jpg": "/static/media/cat-1.8ae8de2177b5df6cad2d.jpg",
+    "static/media/cat-3.jpg": "/static/media/cat-3.af8f2d881fbeea92a875.jpg",
+    "static/media/product-6.jpg": "/static/media/product-6.ddf6874c7927f1cf26e5.jpg",
+    "static/media/product-7.jpg": "/static/media/product-7.503ca8591e138761aeea.jpg",
+    "index.html": "/index.html",
+    "main.4ee426f1.css.map": "/static/css/main.4ee426f1.css.map",
+    "main.0306491f.js.map": "/static/js/main.0306491f.js.map",
+    "787.dcc73137.chunk.js.map": "/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ee426f1.css",
+    "static/js/main.0306491f.js"
+  ]
+}
